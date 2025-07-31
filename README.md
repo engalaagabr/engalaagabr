@@ -110,7 +110,6 @@ Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-
 > _“Stay Hungry, Stay Foolish” — Steve Jobs_
 
 ---
-# snk
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
 [![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
@@ -135,8 +134,6 @@ Generates a snake game from a github user contributions graph
   />
 </picture>
 
-Pull a github user's contribution graph.
-Make it a snake Game, generate a snake path where the cells get eaten in an orderly fashion.
 
 Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image. Colors can [be](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-ocean.svg) [customized](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg).
 
