@@ -4,11 +4,10 @@
 ---
 
 ### 🚀 My AI & Data Journey
-- 📘 Aspiring AI Engineer | AI & Data Science Student
-- 💻 Data Analysis Intern @ DEPI
-- 📱 Passionate about Machine Learning, NLP, and solving real-world problems
-- 📊 Passionate about Machine Learning, NLP, and solving real-world problems
-- 🔍 Driven by curiosity, continuous learning, and meaningful impact
+- 📘 Aspiring AI Engineer | AI & Data Science Student  
+- 💻 Data Analysis Intern @ DEPI  
+- 🧠 Passionate about Machine Learning, NLP, and solving real-world problems  
+- 🔍 Driven by curiosity, continuous learning, and meaningful impact  
 
 ---
 
@@ -48,10 +47,17 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/engalaagabr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="engalaagabr@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/3laa.gabr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>/a>
-  <a href="https://www.facebook.com/eng.alaa.gabr" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/engalaagabr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:engalaagabr@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/3laa.gabr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/eng.alaa.gabr" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
@@ -62,7 +68,7 @@
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40"/>
-  ...
+  <!-- Add more icons as needed -->
 </p>
 
 ---
