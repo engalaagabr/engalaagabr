@@ -1,9 +1,16 @@
 
-<h1 align="center">👋 Hello, I'm Alaa Gabr!</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Alaa Gabr! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 <p align="center">AI & Data Science Student | Data Analysis Intern @ DEPI</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Driven+by+Curiosity+%7C+AI+Explorer;Data+Storyteller+%7C+Problem+Solver;Always+learning+something+new...&center=true&width=500&height=40&color=58A6FF&pause=1000">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:000000&height=150&section=header&text=Welcome%20to%20My%20World!&fontAlign=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
@@ -99,4 +106,4 @@ Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-
 ---
 
 ### 💬 Quote I Live By  
-> _“Stay Hungry, Stay Foolish”: Steve Jobs 2005"_  
+> _“Stay Hungry, Stay Foolish” — Steve Jobs_  
