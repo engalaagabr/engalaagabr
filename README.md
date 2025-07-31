@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello, I'm Alaa Gabr!</h1>
-<p align="center">AI & Data Science Student | Future AI Engineer | Data Analysis Intern @ DEPI</p>
+<p align="center">AI & Data Science Student | Data Analysis Intern @ DEPI</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Driven+by+Curiosity+%7C+AI+Explorer;Data+Storyteller+%7C+Problem+Solver;Always+learning+something+new...&center=true&width=500&height=40&color=58A6FF&pause=1000">
