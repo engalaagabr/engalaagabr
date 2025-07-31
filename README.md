@@ -34,7 +34,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,tensorflow,sklearn,git,github,vscode,anaconda,jupyter,streamlit,html,css,tableau,powerbi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,sql,tensorflow,sklearn,git,github,vscode,anaconda,jupyter,streamlit,tableau,powerbi&perline=8" />
 </p>
 
 ---
