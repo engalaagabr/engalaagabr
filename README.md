@@ -1,11 +1,8 @@
-
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> 
-  <strong>Hello, I'm Alaa Gabr!</strong> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello, I'm Alaa Gabr! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-
-<p align="center">🚀 AI & Data Science Student | 📊 Data Analysis Intern @ DEPI</p>
+<p align="center">AI & Data Science Student | Data Analysis Intern @ DEPI</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Driven+by+Curiosity+%7C+AI+Explorer;Data+Storyteller+%7C+Problem+Solver;Always+learning+something+new...&center=true&width=500&height=40&color=58A6FF&pause=1000">
@@ -21,22 +18,22 @@
 - 🎓 AI & Data Science student @ Kafrelsheikh University (GPA: 3.4/4.0)  
 - 💼 Data Analysis Intern @ Digital Egypt Pioneers Initiative (DEPI)  
 - 🧠 Strong skills in Python, Pandas, Scikit-learn, TensorFlow, SQL  
-- 📊 Hands-on with dashboards, data storytelling, machine learning  
-- 🤖 Passionate about NLP, AI ethics & real-world impact  
-- 🌍 Volunteer @ Life Makers Foundation for education & social good  
+- 📊 Practical experience with dashboards, EDA, and machine learning  
+- 🤖 Passionate about AI, NLP, and real-world impact  
+- 🌍 Volunteer @ Life Makers Foundation for educational & social impact  
 
 ---
 
 ### 📂 Notable Projects
 
-🔹 [Hotel Booking Analytics](https://github.com/engalaagabr/HotelBookingAnalytics)  
-💡 Streamlit + Tkinter dashboard analyzing trends, cancellations, and pricing behavior
+#### 📊 [Hotel Booking Analytics](https://github.com/engalaagabr/HotelBookingAnalytics)
+End-to-end data analytics pipeline using Python, Streamlit & Tkinter. Identified business insights and cancellation trends.
 
-🔹 [Smartphones Sales Analysis](https://github.com/engalaagabr/Smartphone-Sales-Analysis)  
-📊 Interactive dashboard with metrics, real-time insights using Streamlit
+#### 📱 [Smartphones Sales Analysis](https://github.com/engalaagabr/Smartphone-Sales-Analysis)
+Interactive Streamlit dashboard with deep dive into smartphone sales metrics.
 
-🔹 [PyBrary – Library Book Finder](https://github.com/engalaagabr/PyBrary)  
-📚 Python GUI with authentication and book browsing features using ttkbootstrap
+#### 📚 [PyBrary – Library Book Finder](https://github.com/engalaagabr/PyBrary)
+Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-based storage.
 
 ---
 
@@ -77,15 +74,20 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/engalaagabr/engalaagabr/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/engalaagabr/engalaagabr/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/engalaagabr/engalaagabr/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ---
 
@@ -112,4 +114,4 @@
 ---
 
 ### 💬 Quote I Live By  
-> _“Stay Hungry, Stay Foolish” — Steve Jobs_
+> “Stay Hungry, Stay Foolish” — Steve Jobs
