@@ -1,8 +1,9 @@
+
 <h1 align="center">👋 Hello, I'm Alaa Gabr!</h1>
 <p align="center">AI & Data Science Student | Future AI Engineer | Data Analysis Intern @ DEPI</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Driven+by+curiosity;Data+Storyteller+|+AI+Problem+Solver;Building+human-centered+solutions;Always+learning+something+new...&center=true&width=500&height=40&color=58A6FF&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Driven+by+Curiosity+%7C+AI+Explorer;Data+Storyteller+%7C+Problem+Solver;Always+learning+something+new...&center=true&width=500&height=40&color=58A6FF&pause=1000">
 </p>
 
 ---
@@ -11,25 +12,22 @@
 - 🎓 AI & Data Science student @ Kafrelsheikh University (GPA: 3.4/4.0)  
 - 💼 Data Analysis Intern @ Digital Egypt Pioneers Initiative (DEPI)  
 - 🧠 Strong skills in Python, Pandas, Scikit-learn, TensorFlow, SQL  
-- 📊 Hands-on experience with dashboards, EDA, and ML models  
-- 🔬 Passionate about solving real-world problems with AI & NLP  
-- 🤝 Volunteer @ Life Makers Foundation | Social impact through education  
+- 📊 Practical experience with dashboards, EDA, and machine learning  
+- 🤖 Passionate about AI, NLP, and real-world impact  
+- 🌍 Volunteer @ Life Makers Foundation for educational & social impact  
 
 ---
 
 ### 📂 Notable Projects
 
 #### 📊 [Hotel Booking Analytics](https://github.com/engalaagabr/HotelBookingAnalytics)
-- End-to-end data analysis project: KPIs, EDA, dashboard (Streamlit/Tkinter)
-- Identified trends in booking behavior, cancellation rates & seasonality
+End-to-end data analytics pipeline using Python, Streamlit & Tkinter. Identified business insights and cancellation trends.
 
 #### 📱 [Smartphones Sales Analysis](https://github.com/engalaagabr/Smartphone-Sales-Analysis)
-- Interactive sales dashboard using Streamlit
-- In-depth notebook and real-time data exploration interface
+Interactive Streamlit dashboard with deep dive into smartphone sales metrics.
 
 #### 📚 [PyBrary – Library Book Finder](https://github.com/engalaagabr/PyBrary)
-- Python GUI app using `ttkbootstrap` for searching and borrowing books
-- Includes login system and CSV-based data handling
+Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-based storage.
 
 ---
 
@@ -41,7 +39,7 @@
 
 ---
 
-### 💼 Developer Toolkit
+### 🎯 Developer Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/OOP-%234285F4.svg?&style=for-the-badge&logo=code&logoColor=white"/>
@@ -101,7 +99,4 @@
 ---
 
 ### 💬 Quote I Live By  
-> _"Stay curious and keep building."_  
-> — inspired by your mindset and journey
-
----
+> _“Stay Hungry, Stay Foolish”: Steve Jobs 2005"_  
