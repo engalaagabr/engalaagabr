@@ -99,7 +99,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-
   <a href="mailto:engalaagabr@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/3laa.gabr" target="_blank">
+  <a href="https://www.instagram.com/3laagabr_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/eng.alaa.gabr" target="_blank">
