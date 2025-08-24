@@ -68,10 +68,6 @@ Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=engalaagabr&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-trophies.vercel.app/?username=engalaagabr&column=3&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="Trophies Alt Theme" />
 </p>
 
