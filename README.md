@@ -114,5 +114,4 @@ Python GUI app (ttkbootstrap) with search, borrow, and login features using CSV-
 
 ---
 
-### 💬 Quote I Live By  
 > “Stay Hungry, Stay Foolish” — Steve Jobs
