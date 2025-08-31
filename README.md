@@ -40,7 +40,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login functionalities usi
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,anaconda,tensorflow,pytorch,sklearn,jupyter,streamlit,mysql,postgres,azure,linux,docker,keras&perline=20" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,tensorflow,pytorch,jupyter,mysql,postgres,azure,linux,docker&perline=20" />
 </p>
 
 ---
