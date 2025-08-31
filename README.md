@@ -13,39 +13,39 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 **AI & Data Science student** @ Kafrelsheikh University (GPA: 3.4/4.0)  
-- 💼 **Data Analysis Intern** @ Digital Egypt Pioneers Initiative (DEPI)  
-- 🧠 Skilled in **Python, Pandas, Scikit-learn, TensorFlow, SQL**  
-- 📊 Hands-on experience with **EDA, machine learning, and dashboards**  
-- 🤖 Interests: **Artificial Intelligence, NLP, and applied ML**  
-- 🌍 Volunteer @ **Life Makers Foundation** for educational & social impact  
+##  About Me
+-  **AI & Data Science student** @ Kafrelsheikh University (GPA: 3.4/4.0)  
+-  **Data Analysis Intern** @ Digital Egypt Pioneers Initiative (DEPI)  
+-  Skilled in **Python, Pandas, Scikit-learn, TensorFlow, SQL**  
+-  Hands-on experience with **EDA, machine learning, and dashboards**  
+-  Interests: **Artificial Intelligence, NLP, and applied ML**  
+-  Volunteer @ **Life Makers Foundation** for educational & social impact  
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 📊 [Hotel Booking Analytics](https://github.com/engalaagabr/HotelBookingAnalytics)
+###  [Hotel Booking Analytics](https://github.com/engalaagabr/HotelBookingAnalytics)
 Developed an end-to-end analytics pipeline using Python, Streamlit & Tkinter.  
 Identified key business insights and cancellation trends.  
 
-### 📱 [Smartphones Sales Analysis](https://github.com/engalaagabr/Smartphone-Sales-Analysis)
+###  [Smartphones Sales Analysis](https://github.com/engalaagabr/Smartphone-Sales-Analysis)
 Built an interactive Streamlit dashboard to analyze smartphone sales metrics.  
 
-### 📚 [PyBrary – Library Book Finder](https://github.com/engalaagabr/PyBrary)
+###  [PyBrary – Library Book Finder](https://github.com/engalaagabr/PyBrary)
 Python GUI app (ttkbootstrap) with search, borrow, and login functionalities using CSV storage.  
 
 ---
 
-## 🧰 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,tensorflow,pytorch,jupyter,postgres,azure,linux,docker&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,tensorflow,pytorch,postgres,azure,linux,docker&perline=12" />
 </p>
 
 ---
 
-## 🎯 Developer Toolkit
+##  Developer Toolkit
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%230A66C2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -60,7 +60,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login functionalities usi
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=engalaagabr&show_icons=true&theme=tokyonight" />
@@ -69,7 +69,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login functionalities usi
 
 ---
 
-## 🏆 GitHub Achievements  
+##  GitHub Achievements  
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login functionalities usi
 
 ---
 
-## 📌 Contribution Activity
+##  Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -89,7 +89,7 @@ Python GUI app (ttkbootstrap) with search, borrow, and login functionalities usi
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/engalaagabr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
