@@ -40,8 +40,14 @@ Python GUI app (ttkbootstrap) with search, borrow, and login functionalities usi
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,git,github,vscode,anaconda,jupyter,streamlit,tableau,powerbi,mysql,postgres,azure,linux&perline=9" />
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,sklearn,git,github,vscode,anaconda,jupyter,mysql,postgres,azure,linux,keras" /><br>
+  <!-- Programming & Core -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,vscode,anaconda,jupyter&perline=8" />
+  <!-- ML/DL & Libraries -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,keras,streamlit&perline=8" />
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,azure,linux&perline=8" />
+  <br>
+  <!-- BI & Visualization (not available on skillicons) -->
   <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?&style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
