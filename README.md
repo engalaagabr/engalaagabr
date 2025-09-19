@@ -27,7 +27,11 @@
 
 ###  [Hotel Booking Analytics](https://github.com/engalaagabr/HotelBookingAnalytics)
 Developed an end-to-end analytics pipeline using Python, Streamlit & Tkinter.  
-Identified key business insights and cancellation trends.  
+Identified key business insights and cancellation trends. 
+
+###  [Titanic Survival Prediction](https://github.com/engalaagabr/Titanic)
+End-to-end machine learning project for the Kaggle Titanic challenge.  
+Performed EDA, feature engineering and built models (Logistic, SVC, Random Forest, Voting). Achieved a public score of **0.7799** on Kaggle.
 
 ###  [Smartphones Sales Analysis](https://github.com/engalaagabr/Smartphone-Sales-Analysis)
 Built an interactive Streamlit dashboard to analyze smartphone sales metrics.  
