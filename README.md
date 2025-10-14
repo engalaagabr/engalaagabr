@@ -14,7 +14,7 @@
 ---
 
 ##  About Me
--  **AI & Data Science student** @ Kafrelsheikh University (GPA: 3.4/4.0)  
+-  **AI & Data Science student** @ Kafrelsheikh University 
 -  **Data Analysis Intern** @ Digital Egypt Pioneers Initiative (DEPI)  
 -  Skilled in **Python, Pandas, Scikit-learn, TensorFlow, SQL**  
 -  Hands-on experience with **EDA, machine learning, and dashboards**  
