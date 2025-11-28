@@ -13,13 +13,15 @@
 
 ---
 
-##  About Me
--  **AI & Data Science student** @ Kafrelsheikh University 
--  **Data Analysis Intern** @ Digital Egypt Pioneers Initiative (DEPI)  
--  Skilled in **Python, Pandas, Scikit-learn, TensorFlow, SQL**  
--  Hands-on experience with **EDA, machine learning, and dashboards**  
--  Interests: **Artificial Intelligence, NLP, and applied ML**  
--  Volunteer @ **Life Makers Foundation** for educational & social impact  
+## About Me
+- **AI & Data Science Enthusiast**  
+- **Sprints Brand Ambassador**  
+- **Huawei Trainee**  
+- **Ex–DEPI Data Analysis Intern** (Digital Egypt Pioneers Initiative)  
+- Skilled in **Python, Pandas, Scikit-learn, TensorFlow, SQL**  
+- Hands-on experience with **EDA, machine learning, dashboarding, and AI solutions**  
+- Interests: **Machine Learning, NLP, Computer Vision, and Intelligent Systems**  
+- Volunteer @ **Life Makers Foundation** for educational & social impact  
 
 ---
 
