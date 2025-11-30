@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome, I'm Alaa Gabr
 </h1>
-<p align="center"><b>AI & Data Science Student | Data Analysis Intern @ DEPI</b></p>
+<p align="center"><b>AI & Data Science Student | Sprints Brand Ambassador</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI+Explorer+%7C+Data+Storyteller;Driven+by+Curiosity+%7C+Problem+Solver;Always+Learning+and+Building...&center=true&width=550&height=40&color=58A6FF&pause=1000">
