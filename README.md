@@ -17,7 +17,7 @@
 - **AI & Data Science Enthusiast**  
 - **Sprints Brand Ambassador**  
 - **Huawei Trainee**  
-- **Ex–DEPI Data Analysis Intern** (Digital Egypt Pioneers Initiative)  
+- **Ex–DEPI 
 - Skilled in **Python, Pandas, Scikit-learn, TensorFlow, SQL**  
 - Hands-on experience with **EDA, machine learning, dashboarding, and AI solutions**  
 - Interests: **Machine Learning, NLP, Computer Vision, and Intelligent Systems**  
