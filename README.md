@@ -50,10 +50,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engalaagabr&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engalaagabr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=engalaagabr&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engalaagabr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engalaagabr&theme=dracula&hide_border=true" alt="Activity Graph" />
+</p>
 ---
 
 ##  GitHub Achievements  
