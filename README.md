@@ -17,11 +17,11 @@ Machine Learning • NLP • Computer Vision
         alt="GitHub Stats"
       />
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img
         src="https://github-readme-streak-stats.herokuapp.com?user=engalaagabr&theme=github-dark&hide_border=true"
         alt="GitHub Streak"
-      />
+      /> -->
     </td>
     <td align="center">
       <img
