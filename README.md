@@ -7,8 +7,6 @@ Machine Learning • NLP • Computer Vision
 
 ---
 
-## Development Metrics
-
 <table align="center">
   <tr>
     <td align="center">
@@ -17,8 +15,8 @@ Machine Learning • NLP • Computer Vision
         alt="GitHub Stats"
       />
     </td>
-    <!-- <td align="center">
-      <img
+    <td align="center">
+      <!-- <img
         src="https://github-readme-streak-stats.herokuapp.com?user=engalaagabr&theme=github-dark&hide_border=true"
         alt="GitHub Streak"
       /> -->
@@ -32,9 +30,6 @@ Machine Learning • NLP • Computer Vision
   </tr>
 </table>
 
----
-
-## Development Activity
 
 <p align="center">
   <img
@@ -43,8 +38,6 @@ Machine Learning • NLP • Computer Vision
   />
 </p>
 
----
-## Contribution Timeline
 
 <p align="center">
   <img
