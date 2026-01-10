@@ -4,9 +4,7 @@
 AI & Data Science Enthusiast | Sprints Brand Ambassador<br/>
 Machine Learning • NLP • Computer Vision
 </p>
-
----
-
+<!--
 <table align="center">
   <tr>
     <td align="center">
@@ -20,7 +18,7 @@ Machine Learning • NLP • Computer Vision
         src="https://github-readme-streak-stats.herokuapp.com?user=engalaagabr&theme=github-dark&hide_border=true"
         alt="GitHub Streak"
       /> -->
-    </td>
+    <!-- </td>
     <td align="center">
       <img
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engalaagabr&theme=github_dark"
@@ -44,4 +42,4 @@ Machine Learning • NLP • Computer Vision
     src="https://github-readme-activity-graph.vercel.app/graph?username=engalaagabr&theme=github-dark&hide_border=true"
     width="100%"
   />
-</p>
+</p> -->
