@@ -1,7 +1,7 @@
 <h1 align="center">Alaa Gabr</h1>
 
 <p align="center">
-AI & Data Science Enthusiast | Sprints Brand Ambassador<br/>
+AI & Data Science Enthusiast | Microsoft Student Ambassador<br/>
 Machine Learning • NLP • Computer Vision
 </p>
 <!--
