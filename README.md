@@ -1,7 +1,7 @@
 <h1 align="center">Alaa Gabr</h1>
 
 <p align="center">
-  Applied AI Engineer | Microsoft Student Ambassador <br/>
+  Applied AI Engineer | Microsoft Ambassador <br/>
   Building AI-Native Products, Intelligent Workflows & Scalable AI Systems
 </p>
 <!--
